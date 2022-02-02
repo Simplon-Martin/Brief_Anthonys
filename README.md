@@ -10,17 +10,6 @@ git clone https://github.com/Simplon-Martin/Brief_Anthonys.git
 cd Brief_Anthonys/flaskProject/
 ```
 
-Sous Linux :
-
-Au besoin : 
-```bash
-pip install python3-venv
-```
-```bash
-python -m venv venv
-source venv/bin/activate
-```
-
 Ensuite : 
 
 ```bash
