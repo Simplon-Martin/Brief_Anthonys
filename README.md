@@ -1,5 +1,5 @@
 # Brief project
-Développer une application à partir d'une base de données de produits consommées au USA.
+Développer une application à partir d'une base de données de produits consommés au USA.
 
 ## Installation
 
@@ -35,7 +35,7 @@ Ouvrir le fichier exemple_config.yml et remplacer les valeurs par défaut par ce
 
 ```bash
 mkdir instance
-cp exemple_config.yml instance/config.yml
+cp configsample.yml instance/config.yml
 ```
 Créer une BDD Mysql :
 ```sql
