@@ -1,0 +1,1002 @@
+ID,Products,Expiration Date,Amount,Locations,packaging
+1,Eggs,April 8909,947,Illinois,Cyan
+2,Grooming products,August 3422,470,New York,Purple
+3,Candies,February 5276,753,Pennsylvania,Dark Red
+4,Pasta,December 4863,686,New Jersey,Ultramarine
+5,Salmon,February 1507,698,Alabama,Lavender
+6,Meat,August 2096,360,North Carolina,Red
+7,Detergents,July 9536,929,Alaska,coral
+8,Dairy,July 7896,227,Montana,Lavender
+9,Paper Goods,February 8994,892,Colorado,Brown
+10,Paper Goods,July 9786,171,Colorado,Brown
+11,Cosmetics,March 7155,404,Idaho,Cadet blue
+12,Fish,June 9997,514,Illinois,Cyan
+13,Flour,May 2015,46,Arizona,Sienna
+14,Fish,January 0092,151,Iowa,Cerise
+15,Poultry,April 1595,118,New Jersey,Red
+16,Fruits,October 9131,196,New York,Pink
+17,Bakery products,November 6171,487,Arkansas,Aquamarine
+18,Salmon,November 7424,19,Washington,Azure
+19,Candies,September 6910,128,Mississippi,coral
+20,Seafood,October 2864,294,Indiana,Ultramarine
+21,Seafood,July 4945,299,Kentucky,Gold
+22,Medicines,March 4090,34,Florida,Maroon
+23,Housewares,February 4758,125,New York,Capri
+24,Sweets,August 5854,66,Connecticut,Azure
+25,Fish,February 0662,564,Arkansas,Green
+26,Ground turkey,February 6476,325,Michigan,Capri
+27,Sweets,March 5193,281,Utah,Salmon
+28,Canned Goods,April 4955,373,North Carolina,Brown
+29,Pasta,June 6748,197,Virginia,Ultramarine
+30,Flowers,June 8698,241,California,coral
+31,Cereals,July 0082,102,Minnesota,Cyan
+32,House-cleaning products,April 7406,598,Montana,Sky blue
+33,Paper Goods,August 2796,670,Idaho,Lime
+34,Dry Goods,June 2204,974,Michigan,Olive
+35,Brown rice,August 3689,857,Arizona,Sienna
+36,Alcoholic beverages,September 1308,685,Vermont,Mauve
+37,Dry Goods,April 5882,520,Delaware,Cerise
+38,Dishware,September 9253,977,Hawaii,Rust
+39,Baby food,January 5007,782,Texas,Mauve
+40,Frozen foods,January 6073,418,New Jersey,Sky blue
+41,Sweets,October 7538,1,Vermont,Ruby
+42,Grooming products,October 0850,770,South Carolina,Amethyst
+43,Olive oil,August 1557,66,Colorado,coral
+44,Sweets,June 8027,295,Kentucky,Brown
+45,Eggs,January 2872,417,New York,Turquoise
+46,Tea,June 4031,851,Mississippi,Orange
+47,Coffee,July 5138,258,Minnesota,Auburn
+48,Tea,October 3717,641,Illinois,Auburn
+49,Pasta,October 3628,909,Florida,Mauve
+50,Decorations,December 7966,582,Arkansas,Beige
+51,Frozen foods,January 3278,239,Idaho,Fuchsia
+52,Detergents,January 9482,915,Kentucky,Aquamarine
+53,Canned Goods,February 5488,104,California,Fuchsia
+54,Grooming products,August 0499,61,Ohio,Apricot
+55,Dry Goods,December 7077,464,Iowa,Pink
+56,Bottled waters,March 6874,726,Oregon,Auburn
+57,Medicines,October 8699,47,Louisiana,Purple
+58,Baby food,January 8781,926,Oregon,Ultramarine
+59,Ground turkey,August 1669,617,New Jersey,White
+60,Dry Goods,May 5805,26,Maryland,Blue
+61,Canned Goods,October 0763,757,Colorado,Orange
+62,Nonalcoholic beverages,April 6855,870,South Carolina,Rust
+63,Diet foods,January 4289,22,Vermont,Aquamarine
+64,Olive oil,August 4883,296,Delaware,Azure
+65,Tea,January 5471,991,Arkansas,Rosewood
+66,Seafood,November 2235,781,Massachussets,Salmon
+67,Personal Care,February 3883,719,Oregon,Beige
+68,Decorations,December 1392,345,Indiana,Lime
+69,Pasta,November 7966,366,Georgia,Gold
+70,Brown rice,April 9450,760,Maryland,Green
+71,Dairy,December 5614,181,Arizona,Salmon
+72,Cosmetics,April 4335,554,Vermont,Turquoise
+73,Bottled waters,December 4932,913,Hawaii,Cadet blue
+74,Personal Care,July 2150,5,North Dakota,Gray
+75,Pasta,March 4630,29,Kansas,Carmine
+76,Seafood,November 4005,315,Georgia,Mauve
+77,Dairy,November 3531,892,Vermont,Lime
+78,Diet foods,June 9163,352,Kansas,coral
+79,Pasta,February 7690,169,Virginia,Auburn
+80,Fish,April 1070,912,Mississippi,White
+81,Housewares,September 0094,648,Indiana,Capri
+82,Grooming products,August 3877,958,Louisiana,Turquoise
+83,Olive oil,December 0638,866,Washington,Cerise
+84,Tea,September 5034,826,Virginia,Rosegold
+85,Tea,November 9872,361,Texas,Rosegold
+86,Fruits,September 3576,250,Arizona,Lavender
+87,Fish,June 1901,894,North Dakota,Ruby
+88,Baby-care,May 0240,67,Massachussets,Rosewood
+89,Poultry,May 9037,425,Utah,Ruby
+90,Fish,June 9397,73,Mississippi,Barbie Pink
+91,Eggs,October 7525,956,New Mexico,Rosewood
+92,Nonalcoholic beverages,December 7078,501,Wyoming,Sienna
+93,Tomato sauce,June 3915,764,Hawaii,Purple
+94,Frozen foods,August 5501,948,Idaho,Dark Red
+95,Toys,April 8922,598,Louisiana,Turquoise
+96,Salmon,February 6995,267,Utah,Dark red
+97,Baby-care,October 3187,162,Wisconsin,Capri
+98,Sweets,October 1739,142,Oklahoma,Beige
+99,Poultry,October 9034,386,Virginia,Dark red
+100,Flour,December 8533,206,Oregon,Rosegold
+101,Fruits,December 1585,703,Colorado,Silver
+102,Flowers,July 5337,896,Kansas,Maroon
+103,Cheese,July 6193,486,Delaware,Cerise
+104,Medicines,August 8932,854,Iowa,Lime
+105,Mustard,January 6424,909,Kentucky,Emerald
+106,Meat,March 6783,420,Idaho,Rosegold
+107,Paper Goods,November 8993,138,Wyoming,Barbie Pink
+108,House-cleaning products,April 1734,464,Arkansas,Apricot
+109,Eggs,January 3435,375,South Carolina,Purple
+110,Coffee,October 1439,359,Massachussets,Gold
+111,Fish,February 5429,735,North Carolina,Beige
+112,Sauces,October 7058,381,North Carolina,Mauve
+113,Bakery products,March 8022,979,New Hampshire,Black
+114,Baby food,May 9535,314,South Carolina,Capri
+115,Toys,December 2858,28,Georgia,Cadet blue
+116,Brown rice,January 7461,294,Nevada,Cadet blue
+117,Detergents,February 8867,875,Massachussets,Blue
+118,Baby food,July 2526,510,Wisconsin,Azure
+119,Canned Goods,December 5074,81,Alaska,Amethyst
+120,Dry Goods,October 2191,733,Oklahoma,Purple
+121,Grooming products,June 1572,355,Alaska,Lavender
+122,Brown rice,September 6912,472,Indiana,Barbie Pink
+123,Eggs,March 9808,212,California,Peach
+124,Cereals,November 7122,991,New York,Emerald
+125,Pasta,February 9815,928,Missouri,Gold
+126,Decorations,July 8563,176,Vermont,Dark red
+127,Bottled waters,January 8887,7,Louisiana,Ruby
+128,Frozen foods,August 2515,424,Kansas,Lavender
+129,Olive oil,May 2928,523,Colorado,Maroon
+130,Personal Care,March 9819,496,Kentucky,Barbie Pink
+131,Fish,August 2688,623,Delaware,Lavender
+132,Baby food,February 1792,778,New Hampshire,Red
+133,Paper Goods,January 0028,231,Pennsylvania,Sienna
+134,Eggs,December 4058,557,Ohio,Cadet blue
+135,Seafood,March 6913,939,North Dakota,Amethyst
+136,Vegetables,March 9612,724,Hawaii,Aqua
+137,Flour,May 9752,669,North Carolina,Peach
+138,Snack foods,August 3730,218,Idaho,Magenta
+139,Olive oil,September 4084,347,New Mexico,Sepia
+140,Snack foods,December 8827,58,Colorado,Cadet blue
+141,Pet foods,August 9015,118,Florida,Barbie Pink
+142,Housewares,April 9472,204,Massachussets,Sepia
+143,Tomato sauce,January 3619,239,Delaware,Sienna
+144,Seafood,October 8588,97,Nebraska,Rust
+145,Bread,October 5179,749,Colorado,Aqua
+146,Snack foods,December 5507,32,Mississippi,Sepia
+147,Snack foods,May 3662,444,Kansas,Orange
+148,Alcoholic beverages,October 2324,314,Iowa,Sky blue
+149,Mustard,May 2176,221,Rhode Island,Gold
+150,Candies,April 9895,527,Rhode Island,coral
+151,Grooming products,December 2042,952,Oklahoma,Sienna
+152,Fruits,July 1554,529,Oklahoma,Magenta
+153,Meat,August 3975,411,Nevada,Rosegold
+154,Brown rice,March 8546,422,North Carolina,Cyan
+155,Toys,December 7981,86,Rhode Island,Turquoise
+156,Fruits,December 4135,534,Kansas,Carmine
+157,White rice,April 6353,967,California,Gold
+158,Personal hygiene,October 5065,897,Arkansas,Gray
+159,Detergents,December 1259,910,Georgia,Turquoise
+160,Tomato sauce,November 5327,257,Colorado,Dark red
+161,Decorations,February 9838,145,Utah,Red
+162,Paper Goods,February 4273,260,New Hampshire,Emerald
+163,Fish,June 1625,527,Kentucky,Carmine
+164,Tea,August 3279,227,Iowa,Cyan
+165,Chicken,April 0420,550,North Carolina,Brown
+166,Nonalcoholic beverages,May 0063,943,Massachussets,Pink
+167,Detergents,December 2832,720,Georgia,Pink
+168,Meat,February 7174,903,Rhode Island,Green
+169,Mustard,February 6601,576,Indiana,Olive
+170,Baby food,July 4763,687,Ohio,Azure
+171,Flowers,July 3149,115,Arizona,Pink
+172,Cosmetics,October 9366,395,Delaware,Brown
+173,Canned Goods,March 5990,754,Massachussets,Amethyst
+174,Chicken,June 8436,272,Tennessee,Amethyst
+175,Condiments,March 2851,31,Louisiana,Brown
+176,Flowers,March 6037,151,Colorado,Mauve
+177,Detergents,February 9912,409,Massachussets,Magenta
+178,Pasta,October 5662,982,Indiana,Orange
+179,Fish,March 9654,943,Arizona,Beige
+180,Cheese,December 8878,702,Michigan,Dark Red
+181,Baby food,August 2251,713,Louisiana,Lavender
+182,Fruits,November 5785,23,Nevada,Green
+183,Baby food,February 4576,838,Montana,Rosewood
+184,Bread,August 2905,345,Idaho,Champagne
+185,Cereals,July 4198,702,Utah,Sky blue
+186,Baby food,November 1864,69,Oregon,Olive
+187,Frozen foods,December 7600,469,North Dakota,Lavender
+188,Diet foods,September 9230,893,Missouri,Fuchsia
+189,Canned Goods,July 3551,21,Michigan,Capri
+190,Eggs,April 3417,982,Iowa,Champagne
+191,Eggs,June 3350,952,Oklahoma,White
+192,Brown rice,December 2450,500,North Carolina,Black
+193,White rice,November 4983,566,Pennsylvania,Beige
+194,Olive oil,January 9430,641,North Carolina,Gold
+195,Diet foods,April 3290,617,North Dakota,Peach
+196,Sauces,October 6118,631,Maryland,Sepia
+197,Brown rice,December 6134,711,Texas,Champagne
+198,Frozen foods,December 9542,472,North Carolina,Rosegold
+199,Meat,March 6006,728,Maine,Capri
+200,Dishware,May 5282,157,Kansas,Amethyst
+201,Baby food,July 6349,141,Arizona,Camel
+202,Hygiene products,July 8238,84,New York,Fuchsia
+203,Diet foods,October 4490,382,Kentucky,Lime
+204,Fish,August 8808,466,Virginia,Ruby
+205,Baby-care,December 7088,21,Vermont,Ultramarine
+206,Fruits,October 3585,279,Minnesota,Lavender
+207,Grooming products,November 1270,20,Washington,Mauve
+208,Nonalcoholic beverages,May 4586,400,Delaware,Ultramarine
+209,Hygiene products,October 4429,539,Montana,Lime
+210,Grooming products,September 8270,536,Wyoming,Cyan
+211,Condiments,December 0716,281,West Virginia,Auburn
+212,Pet foods,April 0092,998,Illinois,Camel
+213,Cereals,June 7087,502,North Dakota,Cadet blue
+214,Dairy,April 0521,239,Washington,Cerise
+215,Personal hygiene,October 6205,858,Iowa,Black
+216,Sweets,February 5169,651,Washington,Silver
+217,Salmon,November 8919,155,Rhode Island,Red
+218,Canned Goods,September 3132,219,Michigan,Red
+219,Bottled waters,June 6617,739,Pennsylvania,Turquoise
+220,Tomato sauce,October 3186,795,Rhode Island,Purple
+221,Sweets,June 8869,365,New Mexico,Pink
+222,Flour,February 4137,543,Massachussets,Lime
+223,Ground turkey,November 9030,486,South Carolina,Dark Red
+224,Dairy,August 7868,508,Oklahoma,Rosewood
+225,Fish,November 0482,255,Ohio,Green
+226,Toys,August 5073,85,Virginia,Rust
+227,Flowers,December 5691,157,Alabama,Blue
+228,Baby food,September 2559,844,Wyoming,Ultramarine
+229,Seafood,February 4362,474,Pennsylvania,Rosegold
+230,Snack foods,September 0700,779,West Virginia,Aquamarine
+231,Dairy,June 5823,438,Nevada,Azure
+232,Detergents,May 6120,465,Wisconsin,Cerise
+233,Brown rice,March 0393,370,Arizona,Gray
+234,Toys,October 8301,379,North Carolina,Green
+235,Paper Goods,June 3110,754,Minnesota,Aqua
+236,Dairy,April 8014,336,Utah,Capri
+237,Hygiene products,November 2633,946,Delaware,Turquoise
+238,Fish,June 3235,665,Tennessee,Mauve
+239,Diet foods,September 8783,169,Texas,Sky blue
+240,Nonalcoholic beverages,January 3171,271,South Carolina,Purple
+241,Flour,March 0340,674,Connecticut,Rosegold
+242,Frozen foods,September 7849,992,California,Rust
+243,Baby food,July 9165,33,Ohio,Salmon
+244,Seafood,December 5614,994,Wisconsin,Silver
+245,Flour,September 2971,364,Idaho,Yellow
+246,Chicken,May 6536,455,Connecticut,Gray
+247,Detergents,May 2548,399,Nevada,Sky blue
+248,Medicines,November 2718,965,Oklahoma,Fuchsia
+249,Dry Goods,September 9671,264,Alabama,Dark red
+250,Brown rice,January 4059,241,Virginia,Silver
+251,Dairy,February 4850,759,Minnesota,Rosewood
+252,Flowers,March 9427,900,New Jersey,Purple
+253,Baby-care,January 1983,748,New Mexico,Purple
+254,Flowers,March 3453,581,Texas,Ruby
+255,Cereals,January 6923,312,California,Cadet blue
+256,Sweets,November 4713,150,Kansas,Aquamarine
+257,Bread,August 5755,55,Iowa,Mauve
+258,Grooming products,December 0053,632,Arizona,Dark red
+259,Olive oil,April 9995,890,Nebraska,Aquamarine
+260,Grooming products,May 9274,921,New Mexico,Orange
+261,Poultry,June 9431,100,Connecticut,Beige
+262,Tomato sauce,October 3327,660,California,Carmine
+263,Olive oil,November 0758,273,South Dakota,Ruby
+264,Condiments,April 0937,983,Hawaii,Ultramarine
+265,Alcoholic beverages,October 9565,910,Maryland,Ultramarine
+266,Ground turkey,February 7213,761,Delaware,Salmon
+267,Baby-care,April 1607,18,Maryland,Rust
+268,Dry Goods,February 9440,165,Arizona,Emerald
+269,Tomato sauce,March 6348,734,Pennsylvania,Black
+270,Personal hygiene,December 2241,232,New Jersey,Fuchsia
+271,Baby-care,January 2154,138,Georgia,Apricot
+272,Baby food,December 4676,843,Montana,Dark red
+273,Salmon,February 0919,164,North Dakota,Cyan
+274,Sweets,September 8164,40,Missouri,Cyan
+275,Meat,January 6146,738,Michigan,Sienna
+276,Mustard,August 9828,433,North Carolina,Aquamarine
+277,Diet foods,March 6691,192,Texas,Sky blue
+278,Poultry,September 0568,147,North Carolina,Azure
+279,Brown rice,February 1200,311,Kentucky,Rosegold
+280,Alcoholic beverages,March 7702,219,New Mexico,Salmon
+281,House-cleaning products,November 0394,451,Nebraska,Silver
+282,Personal Care,June 5800,478,Tennessee,Beige
+283,Canned Goods,May 8470,295,Louisiana,Maroon
+284,Snack foods,June 5822,477,Vermont,Camel
+285,Bakery products,January 3352,102,Illinois,Purple
+286,Dry Goods,March 6073,717,New Jersey,Peach
+287,Poultry,June 4225,997,West Virginia,Apricot
+288,Meat,May 4334,413,Virginia,Salmon
+289,Detergents,May 2099,14,Idaho,Purple
+290,Sauces,September 6009,695,California,Rosewood
+291,Coffee,September 0463,88,Utah,Lime
+292,Bread,November 6953,218,Idaho,Rust
+293,Brown rice,September 4245,2,Nebraska,Pink
+294,Chicken,January 3664,449,Oregon,Amethyst
+295,Personal hygiene,November 7209,870,Kansas,Peach
+296,Canned Goods,May 8126,598,Kentucky,Orange
+297,Cereals,January 3109,176,Nevada,Purple
+298,Toys,December 1412,88,Louisiana,Sienna
+299,Diet foods,November 7910,275,Kentucky,coral
+300,Eggs,March 8535,273,Florida,Red
+301,Diet foods,June 6320,4,Louisiana,Ultramarine
+302,Cheese,April 3829,334,Alaska,Gray
+303,Cereals,December 6907,295,Iowa,Olive
+304,Hygiene products,September 3234,426,Alaska,Yellow
+305,Decorations,January 2671,276,Tennessee,Magenta
+306,Frozen foods,June 5580,735,Minnesota,Gray
+307,Frozen foods,October 0488,600,Delaware,Blue
+308,Fruits,July 3206,877,Nevada,Cerise
+309,Dairy,January 1178,272,Nevada,Auburn
+310,Medicines,September 2816,734,Michigan,Barbie Pink
+311,Baby food,May 9011,501,Montana,Peach
+312,Snack foods,July 8828,311,Indiana,Pink
+313,Paper Goods,July 2597,58,Louisiana,Sepia
+314,Poultry,November 7093,966,South Dakota,Lime
+315,Baby-care,May 0832,734,Vermont,Cyan
+316,Dairy,September 2581,220,Vermont,Auburn
+317,House-cleaning products,July 7514,460,Indiana,Pink
+318,Tea,April 1934,511,Pennsylvania,Beige
+319,Toys,August 6463,144,Wyoming,Camel
+320,House-cleaning products,February 0005,555,South Carolina,Camel
+321,Fish,May 5396,275,Oklahoma,Maroon
+322,Paper Goods,January 0069,156,Mississippi,Brown
+323,Nonalcoholic beverages,June 1771,137,Idaho,Dark Red
+324,Bakery products,March 7880,285,Utah,White
+325,Cosmetics,April 1030,365,South Carolina,Camel
+326,Condiments,July 6093,395,Utah,Dark Red
+327,Baby food,June 5464,323,West Virginia,Turquoise
+328,Ground turkey,December 5345,193,Vermont,Cerise
+329,Cheese,March 6273,142,Kentucky,White
+330,Sauces,February 0949,399,Kentucky,Carmine
+331,Hygiene products,February 8609,476,Connecticut,Turquoise
+332,Pet foods,October 7812,243,Utah,White
+333,Olive oil,January 2571,603,New York,Silver
+334,Cheese,December 6814,923,Colorado,Amethyst
+335,Cheese,February 1926,60,Maine,Maroon
+336,Bakery products,September 1042,996,Idaho,Orange
+337,Personal Care,March 0725,403,North Dakota,Beige
+338,Pasta,December 4790,595,Florida,Amethyst
+339,Mustard,July 1357,346,Oklahoma,Pink
+340,Vegetables,November 0598,58,West Virginia,Dark red
+341,Tea,June 0497,387,Michigan,Salmon
+342,Mustard,September 9174,938,Missouri,Brown
+343,Diet foods,June 5606,787,Alabama,Apricot
+344,Olive oil,June 3578,54,New York,Maroon
+345,Personal Care,June 7323,852,Minnesota,Auburn
+346,Bakery products,June 5534,689,Tennessee,Brown
+347,Vegetables,July 7308,300,Maryland,Blue
+348,Baby food,November 0069,585,Kentucky,Peach
+349,Dishware,February 1676,957,Massachussets,Olive
+350,Dishware,March 5494,434,South Dakota,coral
+351,Condiments,November 3053,573,Michigan,Amethyst
+352,Ground turkey,June 9422,64,South Dakota,Brown
+353,Sweets,April 5990,836,Delaware,Fuchsia
+354,Bottled waters,July 6112,265,Kansas,Auburn
+355,Fruits,September 9333,786,Vermont,Barbie Pink
+356,Flour,April 7425,914,Pennsylvania,Cerise
+357,Personal Care,December 7104,987,Minnesota,Purple
+358,Ground turkey,March 0257,338,North Carolina,Rosegold
+359,Condiments,August 2295,903,Indiana,Silver
+360,Olive oil,May 1597,599,Rhode Island,Rust
+361,Meat,August 1326,675,Delaware,Blue
+362,Cheese,June 4337,345,Maryland,Sienna
+363,Condiments,March 1085,871,Tennessee,Beige
+364,Dry Goods,August 6245,498,Alabama,Cerise
+365,Canned Goods,August 3019,112,Missouri,Peach
+366,Nonalcoholic beverages,January 3748,889,Vermont,Barbie Pink
+367,Flowers,July 8034,254,South Dakota,Salmon
+368,Cosmetics,October 3624,57,Indiana,Maroon
+369,Alcoholic beverages,November 4226,824,Arizona,Gold
+370,Canned Goods,May 9211,331,Alabama,Salmon
+371,Olive oil,July 4723,961,Maryland,Olive
+372,Diet foods,September 4198,133,South Carolina,Barbie Pink
+373,Vegetables,February 3744,97,Maine,Amethyst
+374,Dairy,June 2336,836,Kansas,Turquoise
+375,Cosmetics,July 2119,326,New Jersey,Sky blue
+376,Paper Goods,September 7614,635,Minnesota,Rust
+377,Olive oil,July 9941,181,Connecticut,Ultramarine
+378,Detergents,September 3128,75,Pennsylvania,Dark red
+379,Eggs,September 2730,840,South Dakota,Lime
+380,Housewares,August 1450,182,Kansas,Purple
+381,Tea,November 0451,373,Idaho,Maroon
+382,Baby food,May 6596,292,Michigan,Sky blue
+383,Tomato sauce,January 8763,827,Wisconsin,Cerise
+384,Fruits,January 2640,421,New Jersey,Fuchsia
+385,Mustard,August 6815,940,Alaska,Barbie Pink
+386,Housewares,April 8295,801,Alabama,Salmon
+387,Bakery products,March 4418,75,Vermont,Sienna
+388,Dairy,May 1226,133,California,Olive
+389,Ground turkey,November 7317,543,North Carolina,Capri
+390,Cereals,August 0388,797,Washington,Apricot
+391,Tomato sauce,January 7257,152,New Jersey,Silver
+392,Dry Goods,January 0083,159,West Virginia,White
+393,Decorations,June 3469,798,Illinois,Silver
+394,Salmon,August 7294,740,Idaho,Auburn
+395,Personal Care,April 5686,444,Michigan,Dark red
+396,Cereals,November 6830,527,West Virginia,Rust
+397,Dishware,July 8545,841,New Mexico,Sky blue
+398,Fruits,June 7947,445,Illinois,Apricot
+399,Salmon,July 7170,86,Arizona,Orange
+400,Cheese,January 9239,393,Ohio,Gray
+401,Tea,January 6469,194,New Jersey,Silver
+402,Tea,September 6956,43,Wyoming,Sky blue
+403,Personal hygiene,September 2505,336,Rhode Island,Lavender
+404,Hygiene products,April 7638,77,Montana,Camel
+405,Sweets,May 3475,588,Louisiana,Red
+406,Cereals,March 5367,784,Oregon,Olive
+407,Condiments,September 7652,605,Ohio,Olive
+408,Paper Goods,July 4741,549,Michigan,Cyan
+409,Tea,September 2496,183,Ohio,Rosegold
+410,Sauces,November 3022,831,New Mexico,Mauve
+411,Candies,March 7981,831,Arkansas,Rosewood
+412,Pasta,April 6088,804,West Virginia,coral
+413,Ground turkey,June 1379,219,Missouri,Amethyst
+414,Cheese,November 3915,562,West Virginia,Dark red
+415,Cereals,January 4319,840,Oregon,Sienna
+416,Poultry,June 4487,811,Delaware,Gold
+417,Housewares,March 8510,800,South Dakota,coral
+418,Housewares,September 8214,560,Massachussets,Dark red
+419,Frozen foods,March 5324,781,Maine,Pink
+420,White rice,January 7888,53,Kentucky,Fuchsia
+421,Grooming products,May 6422,580,Oregon,Orange
+422,Baby-care,January 7772,452,Texas,Sky blue
+423,Cosmetics,July 6426,409,Minnesota,Gray
+424,Dairy,December 2962,6,Kentucky,Gold
+425,White rice,April 9304,524,New Jersey,Green
+426,Pet foods,September 8998,978,Utah,Magenta
+427,Grooming products,August 9068,424,Maine,Gold
+428,Seafood,June 9498,67,Hawaii,Auburn
+429,Grooming products,August 4997,850,Oklahoma,Beige
+430,Vegetables,January 6324,365,Arizona,White
+431,White rice,June 2997,606,Tennessee,Champagne
+432,Diet foods,October 8978,849,Maryland,Green
+433,Ground turkey,March 4261,224,Kentucky,Carmine
+434,Cereals,June 1887,517,Vermont,Azure
+435,Housewares,December 3375,526,Nevada,Aquamarine
+436,Chicken,February 5809,124,Pennsylvania,Ultramarine
+437,Chicken,July 4001,122,Nebraska,Barbie Pink
+438,Hygiene products,February 7350,269,North Dakota,Ultramarine
+439,Pet foods,May 2169,431,Iowa,Aquamarine
+440,Seafood,April 2673,712,South Carolina,Purple
+441,House-cleaning products,May 0528,600,New York,Amethyst
+442,Seafood,February 8966,256,North Carolina,Sky blue
+443,Seafood,January 2536,45,Rhode Island,Emerald
+444,Mustard,January 3584,673,North Carolina,Rust
+445,Canned Goods,December 4726,854,Vermont,Purple
+446,Bread,February 5062,881,Iowa,Sienna
+447,Dry Goods,July 6898,454,Alaska,Mauve
+448,Grooming products,April 0875,106,Kentucky,Barbie Pink
+449,Coffee,May 9094,605,Nebraska,Champagne
+450,Chicken,November 6359,812,Maryland,Orange
+451,Medicines,August 0292,386,South Dakota,Amethyst
+452,Diet foods,October 0065,51,Idaho,Lime
+453,Bottled waters,February 9402,614,Mississippi,Champagne
+454,Chicken,March 9650,297,Georgia,Orange
+455,Fruits,August 8521,570,Louisiana,Cadet blue
+456,Eggs,October 8205,163,Oklahoma,Dark red
+457,Medicines,September 9287,11,Kentucky,Aquamarine
+458,Toys,November 4546,121,Colorado,Blue
+459,Sauces,January 1235,298,Tennessee,Rosewood
+460,Poultry,October 7837,367,Vermont,Dark Red
+461,Medicines,January 9543,212,South Carolina,Maroon
+462,Mustard,March 8408,719,Oklahoma,Ultramarine
+463,Baby food,January 7246,983,Connecticut,Auburn
+464,Personal hygiene,May 5518,60,Oklahoma,Barbie Pink
+465,Grooming products,July 6033,666,Louisiana,Red
+466,Tomato sauce,February 0339,94,Hawaii,Emerald
+467,Coffee,September 4001,280,Alabama,Aqua
+468,Nonalcoholic beverages,September 7369,985,Mississippi,Silver
+469,Vegetables,December 2115,206,New York,Cadet blue
+470,Snack foods,December 7153,116,Georgia,Rosewood
+471,Flour,August 7597,51,New Mexico,Olive
+472,Bread,July 9289,815,Washington,Emerald
+473,Toys,January 7475,266,South Carolina,Dark Red
+474,Nonalcoholic beverages,September 0035,90,Oklahoma,Mauve
+475,Toys,June 4748,720,New York,Gray
+476,Condiments,September 7264,600,Wisconsin,Ultramarine
+477,Pet foods,November 2981,497,West Virginia,Lavender
+478,Grooming products,October 1354,778,Utah,Magenta
+479,Cereals,June 9617,956,Arizona,coral
+480,Meat,September 0658,934,Virginia,Maroon
+481,Pet foods,December 7959,463,Colorado,Rosegold
+482,Personal Care,April 0193,949,Texas,Beige
+483,Seafood,January 3042,9,South Dakota,Apricot
+484,Cereals,August 0688,721,Connecticut,Ultramarine
+485,Personal Care,May 8754,941,Missouri,Amethyst
+486,Fish,November 9559,247,Ohio,Black
+487,Fish,October 2945,765,Illinois,Capri
+488,Poultry,December 6582,569,New York,Azure
+489,Frozen foods,September 1139,411,Illinois,Sky blue
+490,Olive oil,March 1830,234,Mississippi,Mauve
+491,Tea,November 8889,5,Hawaii,Pink
+492,Cosmetics,November 5904,659,Iowa,Auburn
+493,Sauces,January 4839,303,Vermont,Purple
+494,Nonalcoholic beverages,November 7748,412,Missouri,Purple
+495,Chicken,June 4477,558,Louisiana,Fuchsia
+496,Baby food,August 0128,457,Alabama,Apricot
+497,Coffee,July 4316,183,South Dakota,Dark red
+498,Pet foods,July 8812,923,Georgia,Peach
+499,Pet foods,February 3165,905,Massachussets,Gray
+500,Housewares,February 4453,122,New Jersey,Aquamarine
+501,Coffee,July 3002,213,Arkansas,Champagne
+502,Bottled waters,February 5469,196,Mississippi,Sienna
+503,Pet foods,November 0876,606,Utah,Fuchsia
+504,Pet foods,January 5998,568,South Dakota,Lavender
+505,Baby food,June 5755,367,Wyoming,Sienna
+506,Toys,June 3996,36,New Hampshire,Cadet blue
+507,Diet foods,September 1654,816,North Dakota,Black
+508,White rice,September 1241,744,Nevada,Rosewood
+509,Personal Care,March 5619,938,New Mexico,Ultramarine
+510,Nonalcoholic beverages,September 5298,455,North Carolina,Aquamarine
+511,Eggs,February 6923,617,Connecticut,Cerise
+512,Seafood,May 3876,865,Virginia,Capri
+513,Pet foods,June 2763,414,North Carolina,Dark Red
+514,Candies,February 5001,80,Wyoming,Magenta
+515,Mustard,March 2304,329,Virginia,Sienna
+516,Dairy,October 3609,761,Indiana,Silver
+517,Dry Goods,October 1901,563,Minnesota,Dark red
+518,Candies,October 0303,245,Utah,Emerald
+519,Toys,September 1689,925,New Mexico,Azure
+520,Cereals,July 6190,865,Michigan,Yellow
+521,Medicines,June 0852,331,Oregon,Amethyst
+522,White rice,March 2669,804,Louisiana,Black
+523,Poultry,October 0180,966,Arizona,Lavender
+524,Condiments,October 3525,191,Alaska,Ruby
+525,Pet foods,January 9214,250,Alaska,Rust
+526,Mustard,January 9934,459,New Jersey,Rosewood
+527,House-cleaning products,October 6184,572,Texas,Ultramarine
+528,Sweets,July 1624,98,Nevada,Purple
+529,Dishware,January 7876,382,Michigan,Purple
+530,Detergents,June 0341,743,Oregon,Sienna
+531,Paper Goods,July 6104,897,Oklahoma,Gray
+532,Baby food,February 2712,629,New Hampshire,Brown
+533,White rice,April 4690,163,Louisiana,Aquamarine
+534,Medicines,March 9029,542,Wisconsin,Peach
+535,Tea,October 9459,860,Wisconsin,Apricot
+536,Coffee,September 6000,979,Alabama,Apricot
+537,Decorations,June 8414,536,Delaware,coral
+538,Sweets,January 6594,966,Kansas,Magenta
+539,Baby-care,February 4965,476,Connecticut,Orange
+540,Vegetables,February 5758,634,Colorado,Aqua
+541,Cereals,September 2490,380,Indiana,Amethyst
+542,Flour,May 0750,18,Vermont,Camel
+543,Tomato sauce,November 7346,792,Florida,Carmine
+544,Cheese,March 8897,977,New Jersey,Carmine
+545,Canned Goods,November 8866,323,Utah,Salmon
+546,Medicines,January 8814,710,Pennsylvania,Yellow
+547,Detergents,May 6736,338,Idaho,Orange
+548,Bottled waters,December 0711,365,Colorado,Gold
+549,Flowers,May 8877,544,Washington,Aqua
+550,Dairy,December 0121,486,Louisiana,Aqua
+551,Dairy,July 2253,627,Massachussets,Champagne
+552,Fish,May 2182,672,Wyoming,Dark Red
+553,Eggs,June 8211,346,Illinois,Magenta
+554,Salmon,July 8655,926,Nevada,Black
+555,Personal hygiene,November 9685,397,West Virginia,Auburn
+556,Snack foods,July 6419,589,Nebraska,Barbie Pink
+557,House-cleaning products,August 5521,270,New Jersey,Carmine
+558,House-cleaning products,December 2808,716,Montana,Salmon
+559,Fish,August 8003,180,Washington,Ruby
+560,Toys,April 8505,37,Wyoming,Barbie Pink
+561,Grooming products,December 6792,399,Vermont,Brown
+562,Dry Goods,August 7903,443,South Dakota,Orange
+563,Medicines,June 2856,532,Wyoming,Champagne
+564,Fish,July 5747,944,Georgia,Dark red
+565,Mustard,August 9493,43,Alabama,Gray
+566,Flowers,February 3359,50,Virginia,Olive
+567,Baby food,May 3469,510,West Virginia,Cadet blue
+568,Cosmetics,June 7216,375,Maine,Blue
+569,Meat,November 3372,250,Oklahoma,Brown
+570,Tomato sauce,February 1246,279,Tennessee,Sienna
+571,Fruits,March 5296,146,Mississippi,Lime
+572,Fruits,February 6118,931,Mississippi,Brown
+573,Cereals,February 6969,602,New Mexico,Camel
+574,Sauces,April 6779,717,North Carolina,Orange
+575,Tea,September 9510,964,North Dakota,Ultramarine
+576,Dairy,May 4631,282,Kansas,Capri
+577,Fish,July 2430,926,Iowa,Sepia
+578,White rice,November 9060,922,Pennsylvania,Lime
+579,Flour,September 6787,234,New York,Silver
+580,Diet foods,November 5184,736,Montana,Turquoise
+581,Pet foods,December 4933,184,Montana,Turquoise
+582,Decorations,May 8828,501,Massachussets,Lime
+583,Tea,October 6994,318,California,Aqua
+584,Baby-care,August 8274,764,Indiana,Lavender
+585,Fish,January 7276,349,Maryland,Emerald
+586,Tea,July 3464,861,North Carolina,Pink
+587,Hygiene products,September 5527,927,Vermont,Turquoise
+588,Fruits,January 4795,452,Vermont,Gray
+589,Salmon,May 1434,259,Virginia,Auburn
+590,Nonalcoholic beverages,September 6684,722,Delaware,Purple
+591,House-cleaning products,October 0703,847,South Carolina,Salmon
+592,Fruits,May 9196,768,Indiana,Gold
+593,Snack foods,September 3047,651,South Carolina,Maroon
+594,Personal hygiene,June 6545,981,Oregon,Lime
+595,Poultry,December 3565,197,Michigan,Sky blue
+596,Salmon,July 9271,370,Colorado,Azure
+597,Eggs,December 9223,736,Pennsylvania,Carmine
+598,Pasta,August 2304,734,Connecticut,Lavender
+599,Chicken,April 7347,513,Texas,Auburn
+600,Condiments,September 3957,211,Vermont,Camel
+601,Frozen foods,January 5148,248,Oklahoma,Green
+602,Canned Goods,June 9824,853,Vermont,Rosegold
+603,Coffee,September 6706,916,Michigan,Rosegold
+604,Baby food,June 7403,721,Michigan,Azure
+605,Sweets,August 9767,587,Alaska,Lime
+606,Chicken,October 3337,69,New Mexico,Gray
+607,Ground turkey,July 4622,229,Maine,Peach
+608,Vegetables,November 0200,548,Nebraska,Black
+609,Dishware,December 4057,753,South Carolina,Maroon
+610,Sweets,January 0147,937,Maryland,Ultramarine
+611,Personal hygiene,January 1530,583,Idaho,Sky blue
+612,Decorations,April 6221,84,Indiana,Maroon
+613,Cosmetics,April 4397,138,Texas,Orange
+614,Baby-care,March 4067,3,Oklahoma,Cyan
+615,Meat,March 1465,725,Iowa,Barbie Pink
+616,House-cleaning products,February 2548,730,North Carolina,Auburn
+617,Bakery products,May 0220,214,Oklahoma,Azure
+618,Tomato sauce,April 1325,6,New Jersey,Champagne
+619,Bread,May 6810,379,Missouri,Olive
+620,Poultry,April 3347,217,Wyoming,Cyan
+621,Dishware,July 3966,147,Arizona,Silver
+622,Meat,December 3199,695,Vermont,Ruby
+623,Alcoholic beverages,May 9632,799,Minnesota,Rosewood
+624,Nonalcoholic beverages,April 0233,925,Colorado,Carmine
+625,Vegetables,September 3289,809,Florida,Sky blue
+626,Tomato sauce,December 6779,51,Vermont,Aquamarine
+627,Snack foods,January 8899,804,Rhode Island,Magenta
+628,Dry Goods,January 7582,850,Michigan,Blue
+629,Decorations,August 4497,359,Louisiana,Auburn
+630,Cosmetics,May 2201,835,Florida,Barbie Pink
+631,Flour,September 1411,110,Maryland,Azure
+632,Fish,February 5474,285,Connecticut,Amethyst
+633,Poultry,August 5976,360,Hawaii,Amethyst
+634,Tea,June 6468,680,Texas,Emerald
+635,Personal hygiene,June 1110,934,Mississippi,White
+636,Decorations,May 9468,515,Nevada,Rosewood
+637,Olive oil,March 3969,179,Nevada,Red
+638,Toys,September 9205,575,Maine,Magenta
+639,Cheese,December 3476,620,Kansas,Carmine
+640,Bottled waters,June 0631,954,North Carolina,Sky blue
+641,Bread,July 8339,479,Utah,Ultramarine
+642,Olive oil,April 3026,930,New York,Ultramarine
+643,Diet foods,August 0921,189,New York,Amethyst
+644,Olive oil,May 9990,907,Tennessee,Red
+645,Snack foods,May 9271,857,California,Maroon
+646,Mustard,February 8836,759,Maryland,Rust
+647,Hygiene products,June 5107,757,Oregon,White
+648,Brown rice,April 4373,70,Michigan,Black
+649,Decorations,April 9448,258,Georgia,Mauve
+650,Snack foods,June 8667,63,California,Emerald
+651,Toys,December 6227,84,New York,Turquoise
+652,Personal Care,May 6050,670,Maine,Silver
+653,Brown rice,December 2326,277,North Dakota,Maroon
+654,Ground turkey,March 5818,416,Alabama,Black
+655,Personal hygiene,May 8160,486,Texas,Sky blue
+656,Sauces,June 3369,403,Wyoming,Sienna
+657,Alcoholic beverages,September 0458,673,Kansas,Yellow
+658,Dairy,January 2660,576,Wisconsin,Aquamarine
+659,Bread,December 6003,945,Idaho,Barbie Pink
+660,Pet foods,January 1525,897,Hawaii,Amethyst
+661,Tomato sauce,January 3348,448,Ohio,Lime
+662,Diet foods,June 3113,788,Missouri,Purple
+663,Sweets,November 1763,389,Alaska,Lime
+664,Pet foods,December 4424,273,Iowa,Gold
+665,Fruits,June 5056,910,Delaware,Sienna
+666,Diet foods,October 2277,340,New Mexico,Dark Red
+667,Grooming products,February 1275,166,Rhode Island,Brown
+668,Pet foods,May 7552,798,Massachussets,Lavender
+669,Canned Goods,January 1778,963,South Dakota,Gray
+670,House-cleaning products,July 1755,754,New York,Pink
+671,Frozen foods,March 2544,826,Utah,Azure
+672,Cosmetics,June 5423,658,Maryland,Ruby
+673,Dry Goods,July 8036,547,Florida,Peach
+674,Sauces,October 1867,680,Louisiana,Sepia
+675,Dry Goods,May 9904,422,Wyoming,Carmine
+676,Ground turkey,February 7392,204,Minnesota,Carmine
+677,Tomato sauce,November 3021,544,New Jersey,Aquamarine
+678,Bottled waters,December 0470,936,Minnesota,Dark red
+679,Baby-care,July 9435,529,Wyoming,Barbie Pink
+680,Diet foods,October 9021,772,Louisiana,Red
+681,Medicines,August 4473,358,Oregon,Sepia
+682,Personal hygiene,April 2356,185,North Carolina,Cyan
+683,Flour,May 5975,336,Utah,Rust
+684,Poultry,February 2104,994,Maine,Brown
+685,Dry Goods,December 8165,405,Kansas,Salmon
+686,Personal Care,May 4670,535,New York,Aquamarine
+687,Nonalcoholic beverages,June 9308,429,Virginia,Sepia
+688,Eggs,December 9997,293,California,Black
+689,Snack foods,March 4350,241,Ohio,Rosewood
+690,Tomato sauce,May 5335,464,Louisiana,Lime
+691,Candies,October 3581,768,Wyoming,Ruby
+692,Hygiene products,December 2095,780,Nebraska,Sky blue
+693,Fish,December 1984,965,Kansas,Champagne
+694,Vegetables,April 8920,700,Oklahoma,Olive
+695,Olive oil,April 9817,502,Illinois,Azure
+696,Meat,December 5267,903,Illinois,Magenta
+697,Housewares,January 8751,154,Indiana,Auburn
+698,Detergents,December 1811,871,Alabama,Rust
+699,Fruits,February 7309,638,California,Dark red
+700,Cheese,June 6560,145,Hawaii,Silver
+701,Cosmetics,December 5081,242,Minnesota,Silver
+702,Alcoholic beverages,June 9541,390,Georgia,Salmon
+703,Paper Goods,June 0902,547,Michigan,Silver
+704,Bread,January 4109,784,Texas,Cyan
+705,Eggs,February 6289,784,Illinois,Aqua
+706,Flour,November 8116,889,North Carolina,Green
+707,Mustard,March 9981,934,Rhode Island,Beige
+708,Ground turkey,September 5575,132,Arizona,Olive
+709,Toys,January 0083,397,Minnesota,Rust
+710,Housewares,October 6337,417,New Mexico,Ruby
+711,Tomato sauce,February 4328,827,Montana,Maroon
+712,Flour,March 5389,334,New Jersey,Capri
+713,Dairy,July 5206,810,Wisconsin,Sepia
+714,Personal Care,December 1220,784,South Carolina,White
+715,Tea,June 5267,505,Ohio,Salmon
+716,Tomato sauce,June 7075,427,New Mexico,Lavender
+717,Vegetables,September 9265,850,Ohio,Lime
+718,Nonalcoholic beverages,May 1277,800,Maryland,Ruby
+719,House-cleaning products,October 6163,713,Utah,Cyan
+720,Alcoholic beverages,June 5292,165,New York,Aquamarine
+721,Decorations,July 8625,960,Oregon,Red
+722,Alcoholic beverages,January 0482,302,Maryland,Lime
+723,Snack foods,May 7442,553,South Dakota,Orange
+724,Bread,December 6698,798,New Hampshire,Auburn
+725,Diet foods,September 4599,163,Texas,Rust
+726,Hygiene products,March 3342,58,Indiana,Red
+727,Condiments,April 5722,880,West Virginia,Pink
+728,Baby food,December 6056,69,Montana,Olive
+729,Housewares,July 3035,34,Colorado,Olive
+730,Canned Goods,December 6358,39,Idaho,Champagne
+731,Eggs,July 9485,874,Arkansas,Auburn
+732,Chicken,November 8766,325,Missouri,Cadet blue
+733,Condiments,June 5676,282,Hawaii,Rosegold
+734,Nonalcoholic beverages,November 4600,105,Oklahoma,Azure
+735,Cereals,January 2182,498,Kansas,Dark red
+736,Olive oil,September 7673,304,New York,Champagne
+737,Seafood,February 5422,219,Minnesota,Beige
+738,Canned Goods,December 5072,82,Nevada,Auburn
+739,Ground turkey,December 4087,290,Colorado,Red
+740,Pasta,July 1474,508,Washington,Lime
+741,Ground turkey,October 8150,244,North Dakota,Dark red
+742,Tea,November 2092,87,Indiana,Pink
+743,Chicken,May 5429,430,Georgia,Orange
+744,Personal Care,December 5163,345,Ohio,Cadet blue
+745,Dry Goods,June 5661,618,Vermont,Sepia
+746,Brown rice,April 5140,317,Hawaii,Black
+747,Bread,September 0287,168,Tennessee,Apricot
+748,Personal hygiene,January 2554,123,Texas,Auburn
+749,Eggs,May 3070,852,Georgia,Orange
+750,Poultry,January 7184,577,Texas,Amethyst
+751,Bakery products,August 9989,521,New Mexico,Ultramarine
+752,Snack foods,April 6007,571,Maryland,Orange
+753,Baby-care,July 2145,166,Delaware,Rust
+754,Cosmetics,November 6846,160,North Dakota,Rosegold
+755,Cosmetics,April 8409,700,Delaware,Rosegold
+756,Chicken,June 9688,193,Connecticut,Amethyst
+757,Vegetables,November 4994,577,Maine,Emerald
+758,Decorations,October 3405,105,Colorado,Olive
+759,Seafood,April 5595,807,Maine,Peach
+760,Coffee,August 9891,986,Iowa,Maroon
+761,Paper Goods,September 7368,823,Alaska,Camel
+762,Seafood,January 8066,587,Wisconsin,Auburn
+763,Fish,November 0417,656,Washington,Azure
+764,Baby food,February 6221,39,Arkansas,Champagne
+765,Grooming products,August 2378,708,Maine,Rosegold
+766,Candies,January 9087,742,Nevada,Maroon
+767,Pet foods,August 5562,278,Massachussets,Brown
+768,Cosmetics,June 2506,963,South Dakota,coral
+769,Bread,March 6221,25,Oregon,Lime
+770,Bread,December 1174,704,Tennessee,Aquamarine
+771,Candies,February 0626,774,Wisconsin,Olive
+772,Personal hygiene,July 0784,466,Virginia,Auburn
+773,Meat,November 3653,992,Louisiana,Capri
+774,Seafood,October 3603,493,Kansas,Mauve
+775,Flour,March 3159,952,Vermont,Yellow
+776,Tea,June 7593,577,Colorado,Sienna
+777,Personal Care,October 5532,746,Washington,Rosegold
+778,Dry Goods,October 9345,462,Louisiana,Dark red
+779,Personal Care,May 1767,844,Kansas,Black
+780,Vegetables,March 8517,364,Vermont,Camel
+781,Candies,December 3110,750,Oklahoma,Rust
+782,White rice,December 4187,694,Texas,Gold
+783,Ground turkey,March 8271,23,Hawaii,Cyan
+784,Pasta,April 9082,768,Pennsylvania,Gray
+785,Seafood,March 2577,368,Wisconsin,Pink
+786,Dry Goods,February 9753,547,Georgia,Sienna
+787,Tea,January 1274,535,Utah,Dark Red
+788,Flowers,November 1447,847,Oklahoma,Blue
+789,Medicines,December 2247,864,Pennsylvania,Lime
+790,Fish,August 4099,19,Maine,Ruby
+791,Pasta,January 2244,814,Arkansas,Fuchsia
+792,Grooming products,September 3292,129,Alabama,Emerald
+793,White rice,January 2223,35,Idaho,Orange
+794,Baby-care,May 8894,448,Utah,Lavender
+795,House-cleaning products,April 2267,54,Oregon,Red
+796,Poultry,June 1205,214,Iowa,Carmine
+797,Dairy,April 1629,821,Illinois,Blue
+798,Paper Goods,September 7166,672,Oregon,Lime
+799,Mustard,November 1509,829,Georgia,Cyan
+800,Baby food,June 5945,221,Alabama,White
+801,Flour,March 0344,942,Kansas,Brown
+802,House-cleaning products,January 6735,653,Colorado,Capri
+803,Medicines,February 8435,190,North Dakota,Rosegold
+804,Diet foods,April 6582,67,Texas,Emerald
+805,House-cleaning products,January 5225,269,Nebraska,Carmine
+806,Ground turkey,November 3034,353,Oregon,Apricot
+807,Snack foods,March 8803,673,Colorado,Green
+808,Ground turkey,September 1607,606,Georgia,Olive
+809,Snack foods,April 9662,98,South Dakota,Dark red
+810,Canned Goods,May 0418,620,Arizona,Sienna
+811,Flour,January 5519,4,Indiana,Turquoise
+812,Personal Care,May 3650,726,Delaware,Lavender
+813,Baby-care,September 4761,587,Colorado,Ruby
+814,Toys,January 4417,53,Florida,Lavender
+815,Coffee,June 8751,945,Massachussets,Gray
+816,Dairy,April 1781,28,New Jersey,Black
+817,Bread,June 8790,801,Arizona,Cyan
+818,Coffee,May 8043,480,Kentucky,Dark red
+819,Coffee,December 2457,7,Illinois,Ruby
+820,Seafood,January 6019,148,Delaware,Carmine
+821,Baby-care,December 4555,12,Virginia,Aqua
+822,Flour,June 4686,571,Colorado,Silver
+823,Salmon,September 7676,439,Oregon,Rosegold
+824,Pet foods,October 0114,430,Connecticut,Auburn
+825,Pet foods,December 1962,173,Montana,Rust
+826,Frozen foods,May 6669,236,Virginia,Yellow
+827,Vegetables,November 8842,71,Nevada,Maroon
+828,Tomato sauce,July 5174,749,Washington,Carmine
+829,Salmon,June 6666,838,Mississippi,Sienna
+830,Baby food,April 7415,288,Minnesota,Red
+831,Baby-care,June 9873,789,Utah,Green
+832,Personal hygiene,June 3055,386,Mississippi,Red
+833,Salmon,September 4514,886,Rhode Island,Ultramarine
+834,White rice,February 1090,299,Wisconsin,Ultramarine
+835,Flowers,November 8268,241,Minnesota,Gold
+836,Salmon,July 2858,71,Wyoming,Mauve
+837,Snack foods,March 0137,196,New Jersey,Rust
+838,Frozen foods,January 4355,430,Montana,Fuchsia
+839,Cheese,June 2911,719,Oregon,Rosewood
+840,Fish,September 6627,361,New Jersey,Brown
+841,Snack foods,March 2798,154,California,Carmine
+842,Mustard,September 5845,198,Hawaii,Brown
+843,Housewares,December 0934,902,Alaska,Rosewood
+844,Ground turkey,September 9582,432,North Dakota,Magenta
+845,Baby-care,January 8900,796,Alaska,Gold
+846,Poultry,February 1376,277,Alabama,Ultramarine
+847,Bread,August 4611,540,Arizona,Cyan
+848,Dishware,May 6346,837,New York,Dark Red
+849,Seafood,March 4799,483,Indiana,Purple
+850,Eggs,March 2068,502,Montana,Dark Red
+851,Tea,July 9219,352,Missouri,Rosewood
+852,Flour,July 9720,672,Georgia,Maroon
+853,Paper Goods,June 4446,411,Hawaii,Red
+854,Cereals,December 6724,677,Arizona,Camel
+855,Cereals,January 1374,222,Nebraska,Turquoise
+856,Pasta,December 7975,492,Hawaii,Amethyst
+857,Housewares,December 6874,460,Indiana,Dark Red
+858,Frozen foods,March 3254,801,South Dakota,Camel
+859,Candies,December 0902,333,Oregon,Emerald
+860,Flour,June 6598,700,Louisiana,Apricot
+861,Condiments,September 8986,957,Virginia,Amethyst
+862,Candies,July 3997,646,Iowa,Amethyst
+863,Mustard,April 8986,97,North Carolina,Lavender
+864,Paper Goods,January 5050,956,Missouri,Black
+865,Dairy,June 7034,811,Utah,Auburn
+866,House-cleaning products,July 3325,106,New Mexico,Beige
+867,Pasta,February 1962,405,Massachussets,Gold
+868,Nonalcoholic beverages,September 2801,238,Oklahoma,Auburn
+869,Personal hygiene,November 8948,301,Illinois,Maroon
+870,Candies,August 7800,793,Utah,Apricot
+871,Medicines,March 7440,432,Minnesota,Pink
+872,Baby-care,December 8001,967,New York,Sky blue
+873,Salmon,September 3628,161,Maryland,Peach
+874,Cheese,April 0234,694,South Dakota,Pink
+875,Medicines,June 6783,385,Minnesota,Barbie Pink
+876,Baby-care,February 2578,501,South Carolina,Sepia
+877,Personal hygiene,June 9399,960,Nebraska,Purple
+878,Frozen foods,March 5666,723,Arizona,Peach
+879,Poultry,July 9445,984,Rhode Island,Peach
+880,Toys,May 0393,362,Nebraska,Black
+881,Fish,October 2466,51,Washington,Ultramarine
+882,Chicken,April 2777,545,Vermont,Silver
+883,Frozen foods,February 4651,801,Hawaii,Maroon
+884,Snack foods,October 7380,370,Arizona,Lime
+885,Bread,July 3984,343,Wyoming,Aqua
+886,Candies,July 7078,968,New Hampshire,Champagne
+887,Diet foods,March 4222,550,West Virginia,Cadet blue
+888,Fish,March 8053,371,Tennessee,coral
+889,Canned Goods,November 9052,196,Indiana,Gold
+890,Personal hygiene,September 1854,423,Alaska,Beige
+891,Pasta,June 7141,93,Georgia,Turquoise
+892,Bottled waters,March 7876,16,Indiana,Lavender
+893,White rice,January 5819,85,Indiana,Emerald
+894,Frozen foods,June 8233,644,Maryland,Purple
+895,Vegetables,July 0168,556,Idaho,Camel
+896,Flowers,March 1296,625,Iowa,Sienna
+897,Baby-care,January 2266,290,Maine,Sienna
+898,Personal hygiene,August 7824,615,Kansas,Pink
+899,Cereals,July 0143,477,Kansas,Apricot
+900,Canned Goods,June 5795,954,California,Cerise
+901,Dairy,July 5961,611,Ohio,Champagne
+902,Candies,May 5145,498,South Carolina,Olive
+903,Snack foods,June 3739,947,Oregon,Black
+904,Cereals,May 3614,773,South Carolina,Blue
+905,Diet foods,November 7172,444,New Hampshire,Green
+906,Grooming products,August 1775,827,Oregon,Cadet blue
+907,Personal Care,August 4084,859,Montana,Sky blue
+908,Dairy,January 8618,619,Michigan,Camel
+909,Sweets,August 3161,77,Iowa,coral
+910,Frozen foods,August 0360,343,Florida,Rosewood
+911,Fish,August 6477,499,Nebraska,Mauve
+912,Mustard,March 9554,985,Massachussets,Emerald
+913,Diet foods,April 6940,290,Michigan,Dark red
+914,Tea,May 1125,986,Arizona,Carmine
+915,Tomato sauce,May 5173,846,Maryland,Maroon
+916,Pet foods,June 9462,690,Maryland,Brown
+917,White rice,February 7991,952,Missouri,Cyan
+918,Tea,April 6644,356,California,Azure
+919,Housewares,December 8815,139,Arizona,Olive
+920,Snack foods,May 5837,550,Mississippi,Emerald
+921,Brown rice,May 1987,648,Texas,Aquamarine
+922,Tomato sauce,February 0632,703,Connecticut,Pink
+923,Cheese,January 4834,559,Missouri,Yellow
+924,Seafood,May 2007,949,Pennsylvania,White
+925,Chicken,December 1758,323,Minnesota,Cyan
+926,Mustard,July 7566,786,Georgia,Orange
+927,Alcoholic beverages,July 8912,688,Hawaii,Mauve
+928,White rice,April 4411,890,Wisconsin,Capri
+929,Candies,July 1667,928,Wyoming,Capri
+930,Brown rice,January 2796,269,Georgia,Sepia
+931,Decorations,July 4668,179,Maine,Turquoise
+932,Eggs,October 9258,325,Arkansas,Orange
+933,Eggs,July 3286,450,Washington,Magenta
+934,Bread,October 8899,206,Rhode Island,Ruby
+935,Nonalcoholic beverages,October 5721,477,Alabama,Apricot
+936,Chicken,July 4572,631,New Mexico,Cyan
+937,Olive oil,June 7493,262,Idaho,Orange
+938,Eggs,April 6665,355,Florida,Cyan
+939,Nonalcoholic beverages,February 1802,591,Colorado,Olive
+940,Sauces,November 6080,170,South Carolina,Aqua
+941,Salmon,February 8070,580,New Jersey,Gold
+942,Frozen foods,December 9097,174,Wyoming,Cadet blue
+943,Frozen foods,September 8007,10,Nebraska,Lime
+944,Tea,March 7285,878,West Virginia,Peach
+945,Vegetables,August 2090,518,Maine,Blue
+946,Cosmetics,August 9500,723,Montana,Black
+947,Dishware,April 9032,961,North Dakota,Emerald
+948,Ground turkey,October 1498,158,Louisiana,Ultramarine
+949,Fish,July 1958,634,Nevada,Capri
+950,Pet foods,February 8330,551,Arizona,Cerise
+951,Poultry,March 7043,792,Oregon,Fuchsia
+952,Poultry,December 8389,327,Kentucky,Blue
+953,Poultry,May 3339,631,New Hampshire,Mauve
+954,Canned Goods,July 2462,4,Alabama,Emerald
+955,Personal Care,October 4707,844,Massachussets,Cadet blue
+956,Poultry,March 9676,453,Louisiana,Azure
+957,Tea,December 9172,133,Tennessee,Cadet blue
+958,Fruits,November 2986,871,Iowa,Pink
+959,Ground turkey,November 1438,837,Arizona,Maroon
+960,Flowers,July 4695,298,Kentucky,White
+961,Salmon,May 1745,637,Alaska,Auburn
+962,Chicken,February 3479,33,Oregon,Sienna
+963,Housewares,December 6998,600,New Jersey,Sienna
+964,Paper Goods,March 6163,830,South Carolina,Cyan
+965,Hygiene products,March 4067,496,Oregon,Blue
+966,Personal hygiene,December 8262,507,Vermont,Lavender
+967,Dishware,April 7180,807,South Dakota,Barbie Pink
+968,Cosmetics,September 8094,749,West Virginia,Brown
+969,Paper Goods,May 5212,762,Florida,Carmine
+970,Paper Goods,July 7592,554,North Carolina,Pink
+971,Olive oil,December 4950,596,Nebraska,Olive
+972,Condiments,March 6237,581,Michigan,White
+973,Toys,May 3299,932,Louisiana,Gold
+974,Eggs,July 9281,608,Montana,Camel
+975,Sweets,February 0098,182,Iowa,Silver
+976,Housewares,July 4351,492,Nebraska,Peach
+977,Toys,June 0888,226,Nebraska,Sienna
+978,Candies,January 0244,391,Montana,Pink
+979,Cereals,October 8547,246,Florida,Cyan
+980,Cereals,August 4289,848,New Jersey,Auburn
+981,Tea,September 3788,673,Alabama,Sky blue
+982,Baby food,September 9980,507,Nevada,Black
+983,Chicken,December 6075,493,Texas,Beige
+984,Flour,September 7957,948,North Dakota,Barbie Pink
+985,Fruits,May 4369,497,New Hampshire,Lavender
+986,Frozen foods,August 5643,431,Connecticut,Apricot
+987,Seafood,September 7776,573,Vermont,Lime
+988,Diet foods,May 2600,219,New Mexico,Orange
+989,Nonalcoholic beverages,December 7303,139,Minnesota,Lavender
+990,Meat,February 5549,437,Maine,Carmine
+991,Baby-care,July 3676,491,Hawaii,Olive
+992,Cereals,December 0953,382,Idaho,Olive
+993,Mustard,April 9188,476,South Carolina,Salmon
+994,Paper Goods,February 6736,649,Arizona,Carmine
+995,Vegetables,February 2906,68,Maine,Emerald
+996,Cheese,February 9446,226,Delaware,Rust
+997,Frozen foods,July 3534,384,New Mexico,Sienna
+998,Paper Goods,December 7377,537,Maine,Cerise
+999,House-cleaning products,February 9589,158,South Dakota,Silver
+1000,Flour,February 9646,997,Illinois,Emerald
+
