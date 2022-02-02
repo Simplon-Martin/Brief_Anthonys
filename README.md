@@ -30,6 +30,11 @@ Créer une BDD Mysql :
 CREATE DATABASE  IF NOT EXISTS `flask_project` /*!40100 DEFAULT CHARACTER SET utf8mb4 */ /*!80016 DEFAULT ENCRYPTION='N' */;
 ```
 
+Si la commande 'flask' n'est pas reconnue, utilisez:
+```bash
+~/.local/bin/flask 
+```
+
 Générer le dossier "migrations" :
 ```bash
 flask db init
