@@ -10,16 +10,12 @@ git clone https://github.com/Simplon-Martin/Brief_Anthonys.git
 cd Brief_Anthonys/flaskProject/
 ```
 
-Sous Windows : 
-
-```bash
-python -m venv venv
-```
-
 Sous Linux : 
-
+Au besoin : 
 ```bash
-pip install -U Flask
+pip install python3-venv
+```
+```bash
 python -m venv venv
 source venv/bin/activate
 ```
