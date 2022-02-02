@@ -7,7 +7,7 @@ Suivre les indications ci-dessous :
 
 ```bash
 git clone https://github.com/Simplon-Martin/Brief_Anthonys.git
-cd flaskProject/
+cd Brief_Anthonys/flaskProject/
 ```
 
 Sous Windows : 
@@ -19,6 +19,8 @@ python -m venv venv
 Sous Linux : 
 
 ```bash
+pip install -U Flask
+python -m venv venv
 source venv/bin/activate
 ```
 
